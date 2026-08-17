@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hey there! 👋 I'm Ludderz
 
-<!--
-**Ludderzz/Ludderzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I'm a full-stack web developer based in the UK, currently expanding into Java and Minecraft plugin development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Up To
+* Building custom web applications and full-stack software.
+* Experimenting with Minecraft PvP mechanics, Java plugins, and bot architectures.
+* Tweaking and maintaining cars in my spare time.
+
+---
+
+### ⏱️ Profile Status
+*Last updated:* <!-- last-update-date -->
