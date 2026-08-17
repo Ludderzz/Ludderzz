@@ -1,18 +1,20 @@
-<table border="0" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td width="60%" style="border: none; background: transparent;">
-      <h3>Hey there! 👋 I'm Ludderz</h3>
-      <p>Welcome to my GitHub profile. I'm a full-stack web developer based in the UK, currently expanding into Java and Minecraft plugin development.</p>
-    </td>
-    <td width="40%" align="center" style="border: none; background: transparent;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake.svg">
-        <img alt="github contribution grid snake animation" src="./github-contribution-grid-snake.svg">
-      </picture>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%" style="border: none !important; border-collapse: collapse !important; background: transparent !important;">
+    <tr style="border: none !important; background: transparent !important;">
+      <td width="60%" align="left" style="border: none !important; background: transparent !important; vertical-align: middle;">
+        <h3>Hey there! 👋 I'm Ludderz</h3>
+        <p>Welcome to my GitHub profile. I'm a full-stack web developer based in the UK, currently expanding into Java and Minecraft plugin development.</p>
+      </td>
+      <td width="40%" align="center" style="border: none !important; background: transparent !important; vertical-align: middle;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake.svg">
+          <img alt="github contribution grid snake animation" src="./github-contribution-grid-snake.svg">
+        </picture>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
