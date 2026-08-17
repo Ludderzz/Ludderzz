@@ -1,4 +1,4 @@
-<table border="0">
+<table border="0" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="60%">
       <h3>Hey there! 👋 I'm Ludderz</h3>
