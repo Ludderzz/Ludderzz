@@ -5,6 +5,7 @@ Welcome to my GitHub profile. I'm a full-stack web developer based in the UK, cu
 ---
 ### 📊 Profile Views
 [![Ludderzz profile views](https://u8views.com/api/v1/github/profiles/91859792/views/day-week-month-total-count.svg)](https://u8views.com/github/Ludderzz)
+
 ---
 
 ### 🚀 What I'm Up To
