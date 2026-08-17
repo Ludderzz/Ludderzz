@@ -1,6 +1,18 @@
-### Hey there! 👋 I'm Ludderz
-
-Welcome to my GitHub profile. I'm a full-stack web developer based in the UK, currently expanding into Java and Minecraft plugin development.
+<table>
+  <tr>
+    <td width="60%">
+      <h3>Hey there! 👋 I'm Ludderz</h3>
+      <p>Welcome to my GitHub profile. I'm a full-stack web developer based in the UK, currently expanding into Java and Minecraft plugin development.</p>
+    </td>
+    <td width="40%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ludderzz/Ludderzz/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ludderzz/Ludderzz/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ludderzz/Ludderzz/output/github-contribution-grid-snake.svg">
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ---
 ### 📊 Profile Views
