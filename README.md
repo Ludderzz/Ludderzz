@@ -1,10 +1,10 @@
 <table border="0" style="border: none; border-collapse: collapse;">
   <tr>
-    <td width="60%">
+    <td width="60%" style="border: none; background: transparent;">
       <h3>Hey there! 👋 I'm Ludderz</h3>
       <p>Welcome to my GitHub profile. I'm a full-stack web developer based in the UK, currently expanding into Java and Minecraft plugin development.</p>
     </td>
-    <td width="40%" align="center">
+    <td width="40%" align="center" style="border: none; background: transparent;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake.svg">
