@@ -29,11 +29,8 @@ jobs:
             github-contribution-grid-snake.svg
             github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake files to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Commit snake files to main
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          target_branch: output
-          build_dir: .
-          commit_message: "Generate contribution snake animation"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "Update contribution snake animation"
+          file_pattern: "*.svg"
