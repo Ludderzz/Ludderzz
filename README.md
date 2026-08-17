@@ -14,7 +14,7 @@ Welcome to my GitHub profile. I'm a full-stack web developer based in the UK, cu
 * Tweaking and maintaining cars in my spare time.
 
 #### 🎮 Minecraft KillCam Plugin
-> *A Call of Duty-style killcam for Minecraft multiplayer servers.*
+> A Call of Duty-style killcam for Minecraft multiplayer servers.
 
 An advanced custom Minecraft plugin built to capture and replay recent player kills in real-time. Designed to bring seamless competitive mechanics to PvP servers.
 
